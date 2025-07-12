@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Swarn Suman</h1>
 
-<p align = "center"> <img  title="Swarn Suman" alt="Swarn Suman" width="400" src="animation.gif" /> </p>
+<p align = "center"> <img  title="Swarn Suman" alt="Swarn Suman" width="400" src="profile.gif" /> </p>
 
 <h3 align = "center">
 <b>
@@ -64,4 +64,4 @@ React.js
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkcs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarn-suman&label=Profile%20views&color=0e75b6&style=flat" alt="swarn-suman" /> </p>
