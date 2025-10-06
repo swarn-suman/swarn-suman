@@ -14,7 +14,6 @@ Let's Connect!</b><br>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarn-suman&" alt="swarn-suman" /></p>
 
-
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
