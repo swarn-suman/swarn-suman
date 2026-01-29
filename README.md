@@ -12,7 +12,10 @@ Let's Connect!</b><br>
 </h3>
 <br>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarn-suman&" alt="swarn-suman" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swarn-suman&theme=default" alt="GitHub Streak" />
+</p>
+
 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming Languages</h3>
