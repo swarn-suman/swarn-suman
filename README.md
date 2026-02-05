@@ -12,10 +12,11 @@ Let's Connect!</b><br>
 </h3>
 <br>
 
-<p align="center">
-  <img width="400" src="https://streak-stats.demolab.com?user=swarn-suman" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=swarn-suman&show_icons=true" />
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=swarn-suman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=swarn-suman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swarn-suman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming Languages</h3>
