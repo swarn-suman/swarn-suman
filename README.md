@@ -13,9 +13,9 @@ Let's Connect!</b><br>
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swarn-suman&theme=default" alt="GitHub Streak" />
+  <img width="400" src="https://streak-stats.demolab.com?user=swarn-suman" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=swarn-suman&show_icons=true" />
 </p>
-
 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming Languages</h3>
